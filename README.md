@@ -2,21 +2,6 @@
 
 A simple **Java console application** that simulates the booking of vaccination slots. This project is ideal for beginners learning Java and understanding object-oriented programming concepts.
 
----
-
-## 📁 Project Structure
-
-Vaccination-Slot-Booking-Simulator/
-│
-├── src/
-│   └── vaccine/
-│       ├── Slot.java
-│       ├── SlotManager.java
-│       └── VaccinationSimulator.java
-├── module-info.java
-
----
-
 ## 🚀 Features
 
 - ✅ Add available vaccination slots  
